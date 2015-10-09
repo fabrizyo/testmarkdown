@@ -9,4 +9,5 @@ use_directory_urls: false
 theme: readthedocs
 extra_css: ["http://fiware.org/style/monokai_sublime.css"]
 pages:
-- 'Home': 'README.md'
+- 'Home': 'index.md'
+- 'HomeREADME': 'README.md'
